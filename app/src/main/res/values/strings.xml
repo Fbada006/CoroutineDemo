@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutine Demo</string>
+    <string name="something_has_gone_wrong_please_retry">Something went wrong. Please retry</string>
+</resources>
