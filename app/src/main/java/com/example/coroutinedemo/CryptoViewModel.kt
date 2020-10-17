@@ -13,7 +13,7 @@ import java.lang.Exception
 
 class CryptoViewModel : ViewModel() {
 
-    private var _uiState = MutableLiveData<UiState>()
+    private val _uiState = MutableLiveData<UiState>()
 
     val uiState: LiveData<UiState>
         get() = _uiState
